@@ -24,4 +24,6 @@ This project is composed of three layers:
 2. **Computational** — On the RPI-zero to convert raw distributed embedded data into useful readings on the network
 3. **Mobile (iOS)** — App used to interact with the UWB module for testing
 
-If you have (or plan) a diagram, drop it here:
+### Data Flow Diagram
+
+![UWB preliminary data flow](assests/3301_preliminary_data_flow.drawio.png)
