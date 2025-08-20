@@ -12,6 +12,7 @@ Welcome to the **Location Intelligence** hub. This page links to all related rep
 | **RPI Code** | iPhone-side code for interacting with Murata 2BP UWB module (control, testing, UX) | 🔗 TODO |
 | **UWB Phone App** | iPhone-side code for interacting with Murata 2BP UWB module (control, testing, UX) | 🔗 https://github.com/Hong-yiii/Bang_and_olufsen_UWB_Testing |
 | **Evals/Data Collections** | iPhone-side code for interacting with Murata 2BP UWB module (control, testing, UX) | 🔗 TODO |
+| **MQTT Code** | MQTT Topics | https://github.com/anitej1/UWB-MQTT | 
 
 
 ---
