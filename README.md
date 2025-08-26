@@ -9,7 +9,7 @@ Welcome to the **Location Intelligence** hub. This page links to all related rep
 | Repo | Scope / What it’s for | Link |
 |---|---|---|
 | **Embedded Firmware** | Low-level firmware for the hardware platform (sensors, control loops, comms) | 🔗 https://github.com/Hong-yiii/location_intelligence_embedded |
-| **RPI Code** | iPhone-side code for interacting with Murata 2BP UWB module (control, testing, UX) | 🔗 TODO |
+| **RPI Code** | RPi-side code for interacting with Murata 2BP UWB module (parsing, RX/TX, resolving, testing) | 🔗 https://github.com/jionggg/bang-olufsen_rpi |
 | **UWB Phone App** | iPhone-side code for interacting with Murata 2BP UWB module (control, testing, UX) | 🔗 https://github.com/Hong-yiii/Bang_and_olufsen_UWB_Testing |
 | **Evals/Data Collections** | iPhone-side code for interacting with Murata 2BP UWB module (control, testing, UX) | 🔗 TODO |
 | **MQTT Code** | MQTT Topics | https://github.com/anitej1/UWB-MQTT | 
